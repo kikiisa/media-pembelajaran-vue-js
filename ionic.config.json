@@ -1,0 +1,7 @@
+{
+  "name": "media-pembelajaran",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
