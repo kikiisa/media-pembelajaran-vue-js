@@ -1,0 +1,30 @@
+{
+  "materi": [
+    {
+      "id": 1,
+      "judul": "Pengenalan CPU",
+      "subtitle": "Central Processing Unit",
+      "gambar": "https://wallpaperaccess.com/full/1947484.jpg",
+      "deskripsi": "Dasar-dasar CPU",
+      "content": "CPU (Central Processing Unit) adalah komponen komputer yang berfungsi sebagai otaknya. CPU bertugas untuk menjalankan instruksi-instruksi yang diberikan oleh pengguna, melakukan perhitungan, dan mengolah data. CPU dibuat dari bahan semikonduktor dan terdiri atas beberapa komponen seperti kontrol unit, aritmatika dan logika unit, dan register. CPU juga memiliki beberapa fungsi seperti menjalankan instruksi, mengakses data, dan mengatur input/output. CPU digunakan dalam berbagai perangkat elektronik seperti komputer, laptop, ponsel, dan server. CPU juga membantu meningkatkan kinerja perangkat dengan meningkatkan kecepatan proses dan efisiensi energi."
+
+    },
+    {
+      "id": 2,
+      "judul": "Pengenalan HTML",
+      "subtitle": "Hyper Text Markup Language",
+      "gambar": "https://wallpaperaccess.com/full/1947484.jpg",
+      "deskripsi": "Dasar-dasar HTML",
+      "content": "HTML (Hyper Text Markup Language) adalah bahasa markup yang digunakan untuk membuat halaman web. HTML terdiri atas serangkaian tag yang digunakan untuk mendefinisikan struktur dan konten suatu halaman web."
+    },
+    {
+      "id": 3,
+      "judul": "Pengenalan CSS",
+      "subtitle": "Cascading Style Sheet",
+      "gambar": "https://wallpaperaccess.com/full/1947484.jpg",
+      "deskripsi": "Dasar-dasar CSS",
+      "content": "CSS (Cascading Style Sheet) adalah bahasa pemrograman yang digunakan untuk mengatur tampilan dan layout suatu halaman web. CSS digunakan untuk mengatur gaya font, warna, ukuran, dan letak elemen-elemen pada halaman web."
+    }
+  ]
+}
+

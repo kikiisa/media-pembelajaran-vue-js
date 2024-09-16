@@ -17,16 +17,21 @@ const routes: Array<RouteRecordRaw> = [
       },
       {
         path: 'tab1',
-        component: () => import('@/views/Tab1Page.vue')
+        component: () => import('@/views/HomeView.vue')
       },
       {
         path: 'tab2',
         component: () => import('@/views/Tab2Page.vue')
       },
       {
-        path: 'tab3',
-        component: () => import('@/views/Tab3Page.vue')
-      }
+        path: 'materi',
+        component: () => import('@/views/MateriView.vue')
+      },
+      {
+        path: 'detail-materi/:id',
+        component: () => import('@/views/DetailMateri.vue')
+      },
+      
     ]
   }
 ]

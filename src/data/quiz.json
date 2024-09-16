@@ -1,0 +1,161 @@
+[
+    {
+        "id": 1,
+        "title": "Basic Web Programming",
+        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, accusantium temporibus iure delectus ut totam natus nesciunt ex?ducimus, enim.",
+        "img": "https://wallpaperaccess.com/full/1947484.jpg",
+        "level": "Beginner",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What does HTML stand for?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Hypertext Markup Language",
+                        "correct": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Hypertext Markdown Language",
+                        "correct": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Hyperloop Machine Language",
+                        "correct": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Helicopters Terminals Motorboats Lamborginis",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What year was JavaScript launched?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1996",
+                        "correct": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1995",
+                        "correct": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "1994",
+                        "correct": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "none of the above",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What does CSS stand for?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Cascading Style Sheet",
+                        "correct": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Cascading Super Sheet",
+                        "correct": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Cascading Style Sheep",
+                        "correct": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cascading Style Sheep",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What does PHP stand for?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Hypertext PrePararel",
+                        "correct": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Hypertext Programming",
+                        "correct": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Hypertext Preprogramming",
+                        "correct": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Hypertext Preprocessor",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "What does SQL stand for?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Structured Query Language",
+                        "correct": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Stylish Question Language",
+                        "correct": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Stylesheet Query Language",
+                        "correct": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Statement Question Language",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    }
+]
